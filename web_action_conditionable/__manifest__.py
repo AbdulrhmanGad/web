@@ -1,6 +1,6 @@
 {
     "name": 'web_action_conditionable',
-    "version": "11.0.1.0.0",
+    "version": "11.11.11.11",
     "depends": [
         'base',
         'web',
