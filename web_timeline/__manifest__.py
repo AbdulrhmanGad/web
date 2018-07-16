@@ -16,7 +16,7 @@
     "installable": True,
     "website": "http://acsone.eu",
     'depends': [
-        'web',
+        'web', 'base',
     ],
     'qweb': [
         'static/src/xml/web_timeline.xml',
